@@ -1,4 +1,4 @@
-# Simple Calculator in C
+# Calculator in C
 <br>
 This is a Lab Assignment
 <br>
